@@ -1,4 +1,4 @@
-# rest-api-seed
+# django-seed
 ![Python](https://img.shields.io/badge/django-v4.0.1-orange)
 ![Python](https://img.shields.io/badge/python-v3.8.10-blue)
 ![Python](https://img.shields.io/badge/platform-linux--64%7Cwin--64-lightgrey)
