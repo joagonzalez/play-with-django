@@ -46,9 +46,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 (InteractiveConsole)
 >>> 
 
-
-# create a new project
-
 # create a new app within project and directory/file structure
 django/app1(development)$ python manage.py startapp something
 
